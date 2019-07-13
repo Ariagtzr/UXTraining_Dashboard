@@ -2,7 +2,7 @@
 
 ## Resumen
 
-
+Este proyecto tuvo como finalidad simplificar la vida de las personas que se dedican a ser freelance o que trabajan de manera independiente, por lo que se diseño un dashboard que fue trabajo de investigación completa acerca de qué tópicos le gustaría a nuestro cliente ver en la aplicación final, algunos de ellos es la inversión los proyectos, los clientes, el rendimiento que le ha dejado cada proyecto, etc. Implementando un dashboard en la vida de nuestros clientes se incrementa la productividad, y por ende el retorno de inversión es mayor.
 
 
 ## Contexto
@@ -23,17 +23,24 @@ Otro punto importante que requerimos en el diseño y creación de un dashboard e
 Posteriormente se investigaron los KPI’S ya que son la base de un dashboard y se tiene que aprender a utilizarlos.¿Qué es un KPI? Un KPI (key performance indicator), conocido también como indicador clave o medidor de desempeño o indicador clave de rendimiento, es una medida del nivel del rendimiento de un proceso.
 De igual forma para entender el negocio del cual se diseña el dashboard necesitamos investigar más a fondo de que hace un productor musical?.Es el encargado de delinear, junto al músico, el perfil artístico de la obra. Una vez acordado ese concepto, es quien contribuye a desarrollar el máximo potencial de la obra y tiene injerencia en decisiones tanto artísticas como técnicas.
 
-
 Además, el productor musical, en cierta forma, es el nexo entre el músico y todo el equipo técnico que involucra la grabación del disco. Podríamos decir que funciona como una especie de intérprete de la banda.
 Y ahora el proceso de un productor musical: Una vez que tenemos seleccionadas, junto al productor, las músicas que grabaremos llega el momento de confeccionar el presupuesto del proyecto de grabación.
  Para facilitar este análisis y decisiones, no está de más transitar por una serie de preguntas básicas cuyas respuestas marcarán el rumbo de los pasos a seguir para alcanzar el objetivo deseado. A partir de estas respuestas, podremos comenzar a materializar las cuestiones operativas y de gestión. Por ejemplo, la elección de un tipo de instrumentación a utilizar nos llevará al análisis y a la definición de un tipo de estudio en particular. 
+
 A la hora de definir el presupuesto de grabación, tenemos que sumar también otras definiciones sobre el proyecto: ¿el disco tendrá como destino un soporte físico? ¿Será digital y gratuito? ¿Se combinarán ambas alternativas? En caso de fabricarlo, ¿cuántas copias realizaremos?¿Qué esquema de promoción y difusión estamos contemplando? En síntesis, por todos estos motivos recordemos que una correcta definición del presupuesto nos ayuda a encarar de un modo más profesional y eficiente todo el proceso de producción musical.
-Una vez confeccionado el presupuesto de grabación, entramos de lleno en la instancia de pre-producción del disco: etapa en la que se diseña materialmente el álbum y quizá la que mayor tiempo y trabajo nos insume. La sala de ensayo es el lugar en el que empieza el “trabajo de campo”, espacio donde el productor trabajará en profundidad con los músicos para entrar luego al estudio y realizar el registro definitivo. ¿Qué cosas tener en cuenta para esta etapa? ¿Cuál es la metodología más adecuada para encarar este proceso? Una de las primeras medidas que recomendamos es incorporar la rutina de trabajar con un click. Se trata de una herramienta sencilla pero indispensable: consiste en escuchar por auriculares un metrónomo en el tempo en que se ejecutará la canción. Éste metrónomo sirve de guía para grabar todos los instrumentos y permitirá luego los llamados overdubs o sobre-grabaciones, ya sea en el mismo estudio o en otros.
+Una vez confeccionado el presupuesto de grabación, entramos de lleno en la instancia de pre-producción del disco: etapa en la que se diseña materialmente el álbum y quizá la que mayor tiempo y trabajo nos insume. La sala de ensayo es el lugar en el que empieza el “trabajo de campo”, espacio donde el productor trabajará en profundidad con los músicos para entrar luego al estudio y realizar el registro definitivo. ¿Qué cosas tener en cuenta para esta etapa? ¿Cuál es la metodología más adecuada para encarar este proceso? Una de las primeras medidas que recomendamos es incorporar la rutina de trabajar con un click. 
+
+Se trata de una herramienta sencilla pero indispensable: consiste en escuchar por auriculares un metrónomo en el tempo en que se ejecutará la canción. Éste metrónomo sirve de guía para grabar todos los instrumentos y permitirá luego los llamados overdubs o sobre-grabaciones, ya sea en el mismo estudio o en otros.
 Otra sugerencia vital para esta instancia es manejarse con referencias sonoras: identificar ejemplos y modelos puede resultar de gran utilidad. Podemos tomar como ejemplo un álbum completo o indicar arreglos y sonoridades puntuales. Se trata de referencias concretas que podrán facilitar luego las etapas de mezcla y masterización. En esta etapa se discute qué tipo de sonido buscamos, qué estética deseamos desarrollar y qué decisiones artísticas asumiremos, en síntesis: qué queremos “contar” artísticamente. 
+
 Cuando concluimos la fase de pre-producción y la banda ha trabajado en la sala de ensayo junto al productor llega, entonces, el ansiado momento de empezar a grabar. Como criterio inicial, una forma de optimizar el presupuesto con el que contamos, puede pasar por una buena elección del o de los estudios de grabación y para ello lo ideal es dividir las etapas de grabación en diferentes estudios, decisión muy útil si tenemos un presupuesto acotado. También tengamos en cuenta que no es necesario grabar todos los instrumentos de un disco en el mismo estudio. Formato sugerido: aprovechar el estudio profesional (aquel que cuente con sala grande, buenos equipos y micrófonos, etc.) para grabar baterías, bajos y guitarras; el estudio pequeño (con sala modesta, micrófonos y equipos aceptables) para grabar voces y coros; y el estudio casero para realizar overdubs (arreglos sobre-grabados), registrar los instrumentos de línea, los electrónicos (samplers, sintetizadores, etc.) y demás arreglos que no requieran una acústica profesional.
+
 Una vez que contamos con el estudio y que hemos elegido al productor y al ingeniero que nos acompañarán en la producción llega, finalmente, el momento de comenzar a grabar, la etapa en la que pondremos en práctica todo lo planificado en los ensayos y la pre-producción. Aquí, nos centraremos en el modelo particular de grabar por separado, más extendido y aplicable a producciones en las que NO buscamos capturar el “instante interpretativo”, sino incluir más colores de los que posee una banda en vivo. Por eso, en este modelo, persiste la idea de una “ficcionalización” sonora y no tanto la de un registro documental. 
+
 Al finalizar la instancia de grabación sobreviene una etapa más “técnica”, que comienza con el proceso de edición: seleccionar y editar el material grabado. Durante esta etapa se seleccionan las mejores tomas, e incluso, podrán combinarse distintas tomas entre sí. También es el momento en el que pueden corregirse ciertos errores de los músicos y se busca que todo suene “sincronizado”. Otras tareas de esta fase pueden ser las automatizaciones de volumen, la creación de la dinámica de instrumentos, el emparejamiento de volúmenes e, incluso, se puede trabajar la ecualización para llegar a la mezcla en mejores condiciones. Al finalizar el proceso de limpieza de pistas, y habiendo igualado los volúmenes de señal de cada toma, estaremos listos para la mezcla.
+
 Ni bien culmina el proceso de edición, llega una de las etapas más interesantes y definitorias: la mezcla. ¿En qué consiste esta etapa? Si quisiéramos partir de un criterio estándar, podríamos decir que en la mezcla se busca conseguir una ecualización que separe lo mejor posible las frecuencias de cada instrumento entre sí, para que al final sea más fácil distinguir las distintas señales cuando se está oyendo la pieza musical en su conjunto. Aquí se buscará también la espacialidad sonora de los instrumentos mediante paneos y efectos de estéreo y se intentará hacer una mezcla lo más dinámica posible, para evitar un sonido lineal y monótono.
+
 Finalmente, arribamos al último eslabón de la cadena de producción musical: la etapa de masterización. En esta fase se trabaja con los temas ya terminados y mezclados, una mezcla completa en una pista estéreo. Por diversas causas, la masterizacion es, tal vez, el proceso más confuso para el músico; no siempre está claro en qué consisten sus decisiones y alternativas. Se trata del último eslabón de la cadena productiva y tiene por objetivo obtener una versión maestra de la cual se replicará el álbum. Está a cargo de un ingeniero de mastering, especialista a cargo del acabado para que el producto arribe a su mejor calidad sonora.
 ![encuesta](https://i.ibb.co/9w09bYy/muestra.jpg)
 
@@ -41,8 +48,6 @@ Finalmente, arribamos al último eslabón de la cadena de producción musical: l
 ### Requerimientos
 
 En este proyecto se tomó en cuenta los requerimientos del cliente y de lo que se buscaba para obtener un dashboard que se basara en todo lo que el usuario pidió. 
-
-
 
 ### UI
 
@@ -82,7 +87,6 @@ Cuando trabajas siendo un freelancer como Bob, tienes varias problemáticas que 
 ![problema](https://i.ibb.co/rQwFF5C/empathy-map.jpg)
 
 
-
 ## Objetivos
 
 **General**
@@ -92,11 +96,6 @@ Hacer medible y por lo tanto rentable el negocio de freelancer de cualquier prod
 -Apoyar a Bob a realizar un dashboard que genere el hábito de diseñar objetivos por mes para hacer crecer su negocio de freelancer.
 -Generar el diseño de métricas adecuadas para que Bob tenga seguimiento en su crecimiento.
 -Hacer un diseño accesible en el dashboard que no sólo Bob pueda utilizar sino también otros productores de música.
-
-## Costumer Journey Map
-
-
-![stakeholders](https://i.ibb.co/Ky1DHwS/stakeholdermap.png)
 
  
 ### KPI’S 
@@ -148,44 +147,32 @@ Para poder entrar a este mercado nos fue indispensable revisar la competencia, p
 ![benchmark](https://i.ibb.co/ChdQpyj/benchmark.jpg)
 
 
-
-
-## Retos de Diseño
-
-
-
-**Argumentos de los retos de diseño:**
-- 
--  
-
-### Diagrama de Flujos
-
-
-
-![diagrama de flujos]()
-
-## Prototipo de Baja Fidelidad
-
-![diagrama de flujos]()
-
-### Prototipo de Alta Fidelidad
-
-![diagrama de flujos]()
-
-### Journey Map
-
-![diagrama de flujos]()
-
 ### Categorización
 Debido a que el dashboard será Mobile First debido a que en la entrevista que se realizó nuestro usuario indicó que utiliza mucho más el celular. Y sería más de utilidad si lo hace por este medio.
 Con respecto a nuestros indicadores planteamos las siguientes categorías:
-Crecimiento
-Cartera de clientes 
-Proyectos realizados
-Proyectos en puerta
-recomendaciones
- 
-## Navegación
+- Crecimiento
+- Cartera de clientes 
+- Proyectos realizados
+- Proyectos en puerta
+- Recomendaciones
 
-## Wireframes
+
+## Retos de Diseño
+- El usuario necesita loguearse para entrar a la aplicación.
+- El usuario requiere de un menú que tenga lo necesario.
+- El usuario desea revisar cada uno de sus proyectos en temporalidad e inversión.
+- El usuario desea verificar su cartera de clientes y cuál de ellos le genera mejores ganancias
+
+
+### Flujo de Navegación 
+
+La aplicación fue diseñada de una forma muy sencilla que integrará la categorización descrita anteriormente:
+
+![diagrama de flujos](https://i.ibb.co/bsZWXVC/Captura-de-pantalla-2019-07-12-a-la-s-22-42-38.png)
+
+### Prototipo de Alta Fidelidad
+
+El prototipo de alta fidelidad se entregó en el tiempo estimado de dos semanas, con la finalidad de ser testeado con el cliente final.
+
+Acceso al prototipo de [alta fidelidad](https://www.figma.com/proto/GXjCoSWqvXX9Zc7EFEdky3pG/Dashboard?scaling=scale-down&node-id=8%3A44) 
 
